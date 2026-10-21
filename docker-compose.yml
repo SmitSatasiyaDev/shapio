@@ -14,7 +14,7 @@
 #   docker-compose.build.yml         build the image from source, for changing the code
 #
 # Pin a version in production, because `latest` moves on every release:
-#   IMAGE_TAG=0.1.0 docker compose up -d
+#   IMAGE_TAG=0.2.0 docker compose up -d
 #
 # Port 3000 already taken? Use APP_PORT, never PORT. See the app service below.
 #
